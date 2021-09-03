@@ -7,7 +7,7 @@ from tasks.serializers import TaskSerializer, TaskCreateSerializer
 
 
 class TaskViewSet(ModelViewSet):
-    queryset = Task.objects.all().order_by('-priority')
+    queryset = Task.objects.all().order_by('end_date', '-priority')
     permission_classes = [IsAuthenticated]
     filterset_class = TaskFilter
 
