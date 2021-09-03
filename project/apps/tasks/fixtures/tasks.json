@@ -1,0 +1,22 @@
+[
+  {
+    "model": "tasks.task",
+    "pk": "97335d7e-e7df-4195-a1d8-50a6810b8366",
+    "fields": {
+        "name": "Task 332",
+        "priority": "LOW",
+        "end_date": "2020-01-01",
+        "status": "DONE"
+    }
+  },
+  {
+    "model": "tasks.task",
+    "pk": "97335d7e-e7df-4195-a1d8-50a6810b8367",
+    "fields": {
+        "name": "Task 333",
+        "priority": "HIGH",
+        "end_date": "2020-01-01",
+        "status": "TODO"
+    }
+  }
+]

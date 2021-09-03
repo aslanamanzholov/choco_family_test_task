@@ -1,0 +1,18 @@
+[
+  {
+    "model": "users.user",
+    "pk": "97335d7e-e7df-4195-a1d8-50a6810b8366",
+    "fields": {
+        "username": "user1",
+        "password": "pbkdf2_sha256$10000$vkRy7QauoLLj$ry+3xm3YX+YrSXbri8s3EcXDIrx5ceM+xQjtpLdw2oE="
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": "97335d7e-e7df-4195-a1d8-50a6810b8367",
+    "fields": {
+        "username": "user2",
+        "password": "pbkdf2_sha256$10000$vkRy7QauoLLj$ry+3xm3YX+YrSXbri8s3EcXDIrx5ceM+xQjtpLdw2oE="
+    }
+  }
+]

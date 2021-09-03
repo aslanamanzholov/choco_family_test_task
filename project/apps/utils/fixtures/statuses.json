@@ -1,0 +1,29 @@
+[
+  {
+    "model": "utils.status",
+    "pk": "TODO",
+    "fields": {
+      "name": "Нужно сделать",
+      "created_at": "2020-01-01",
+      "updated_at": "2020-01-01"
+    }
+  },
+  {
+    "model": "utils.status",
+    "pk": "IN_PROGRESS",
+    "fields": {
+      "name": "В процессе",
+      "created_at": "2020-01-01",
+      "updated_at": "2020-01-01"
+    }
+  },
+  {
+    "model": "utils.status",
+    "pk": "DONE",
+    "fields": {
+      "name": "Завершен",
+      "created_at": "2020-01-01",
+      "updated_at": "2020-01-01"
+    }
+  }
+]

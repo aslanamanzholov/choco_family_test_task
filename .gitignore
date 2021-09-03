@@ -1,0 +1,9 @@
+env/
+.idea/
+__pycache__/
+media/
+venv
+project/static/*
+!static/css/Roboto-Bold.ttf
+!static/css/Roboto-Regular.ttf
+.env
